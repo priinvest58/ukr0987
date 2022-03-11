@@ -1,0 +1,18 @@
+
+
+.payment-panel{
+    width: 90%;
+    min-height: 500px;
+    margin-bottom: 20px;
+}
+
+.ad-bar{
+    height: 5px;
+    background-color: rgb(4, 85, 155);
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.form-group{
+    padding: 5px!important;
+}
